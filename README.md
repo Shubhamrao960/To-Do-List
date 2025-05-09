@@ -1,6 +1,6 @@
 
 
-# 📝 To-Do List Management App
+# 📝 To-Do Management App
 
 A **To-Do List Management Application** built using **Spring Boot**, enabling users to manage their personal tasks efficiently. The app supports full CRUD operations, user-specific task handling, and integrates form validation and session management using Spring MVC and Spring Security.
 
